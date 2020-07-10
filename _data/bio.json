@@ -1,64 +1,55 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Ali Muhammed",
+    "label": "Back-end Developer",
+    "picture": "https://techfolios.github.io/images/ali300x300.png",
+    "email": "princeali5549@gmail.com",
+    "phone": "+2499123669812",
+    "website": "https://sentic90.github.io",
+    "summary": "I CS student self learer , I studied online courses all that related to computer science and programming , Python, C , C++",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "Khartoum, Sudan",
+      "postalCode": "",
+      "city": "Azhari",
+      "countryCode": "SD",
+      "region": "Khartoum"
     },
     "profiles": [
       {
         "network": "github",
         "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/sentic90"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "ali5549",
+        "url": "http://linkedin.com/in/ali-muhammed"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+      
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Artificial Intelligence",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        ""
       ]
     },
     {
-      "name": "data mining",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Web Development",
       "level": "",
       "keywords": [
         "C",
@@ -73,10 +64,10 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Linux",
+        "Windows",
         "Git/GitHub",
-        "g++",
+        "Secutiry+",
         "TI LaunchPad"
       ]
     }
