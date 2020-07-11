@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "sentic90",
         "url": "http://github.com/sentic90"
       },
       {
         "network": "linkedin",
-        "username": "ali5549",
-        "url": "http://linkedin.com/in/ali-muhammed"
+        "username": "Ali Muhammed",
+        "url": "http://linkedin.com/in/ali-muhammed98"
       }
       
     ]
@@ -32,8 +32,6 @@
     {
       "name": "Artificial Intelligence",
       "keywords": [
-        "",
-        ""
       ]
     },
     {
@@ -42,7 +40,7 @@
       ]
     },
     {
-      "name": "",
+      "name": "Programming",
       "keywords": [
       ]
     }
@@ -53,11 +51,10 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
+        "Python",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "MYSQL"
       ]
     },
     {
@@ -74,10 +71,10 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Neelain,",
+      "area": "Petroleum Geology (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -86,10 +83,10 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "Self-Employee",
       "position": "Web Developer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-04-04",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
@@ -98,26 +95,26 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
+      "company": "Intelegetsys Co.Ltd",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2019-6-15",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Troubleshoot software, hardware and networking issues",
+        "Software solutions and Database desinging pattern"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "United Nation",
       "website": "http://manoa.hawaii.edu/reis",
       "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "startDate": "2018-05-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Networks, python developer",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
