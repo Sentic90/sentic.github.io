@@ -44,7 +44,7 @@
     "skills": [
         {
             "name": "Web Development",
-            "level": "",
+            "level": "Intermediate-Expert",
             "keywords": [
                 "C",
                 "Python",
@@ -56,7 +56,7 @@
         },
         {
             "name": "Toolsets/OS",
-            "level": "",
+            "level": "Intermediate",
             "keywords": [
                 "Linux",
                 "Windows",
@@ -107,7 +107,7 @@
     "volunteer": [
         {
             "organization": "United Nation",
-            "website": "http://manoa.hawaii.edu/reis",
+            "website": "",
             "position": "Trainee as Junior Software Developer",
             "startDate": "2018-05-01",
             "endDate": "2018-11-01",
@@ -118,7 +118,7 @@
             ]
         }
     ],
-    "awards & Certificates": [
+    "awards": [
         {
             "title": "Introduction to Git and GitHub",
             "date": "2020-2020",
