@@ -1,157 +1,171 @@
 {
-  "basics": {
-    "name": "Ali Muhammed",
-    "label": "Back-end Developer",
-    "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQH477ih4zkADw/profile-displayphoto-shrink_200_200/0?e=1599696000&v=beta&t=Akxo2ZxxVSWYrJV4Nyb1KoJGu3kctgbf8RI1HDFav0E",
-    "email": "princeali5549@gmail.com",
-    "phone": "+2499123669812",
-    "website": "https://sentic90.github.io",
-    "summary": "  I Software engineer , I has studied online courses that related to computer science and learnt computer programming with Python, C",
-    "location": {
-      "address": "Khartoum, Sudan",
-      "postalCode": "",
-      "city": "Azhari",
-      "countryCode": "SD",
-      "region": "Khartoum"
+    "basics": {
+        "name": "Ali Muhammed Elameen",
+        "label": "Python |Back-end Developer",
+        "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQFk1Aj-Jo7SsQ/profile-displayphoto-shrink_200_200/0/1630690648811?e=1646265600&v=beta&t=h4GyRWNEZsQyNDcaMFoAEWZOMw7-Ooo6wVqQnq76jYE",
+        "email": "ali5549@outook.com",
+        "phone": "+249123836591",
+        "website": "https://sentic90.github.io",
+        "summary": "  Software engineer , computer science and learnt computer programming with Python and Django",
+        "location": {
+            "address": "Khartoum, Sudan",
+            "postalCode": "",
+            "city": "Azhari",
+            "countryCode": "SD",
+            "region": "Khartoum"
+        },
+        "profiles": [
+            {
+                "network": "github",
+                "username": "sentic90",
+                "url": "http://github.com/sentic90"
+            },
+            {
+                "network": "linkedin",
+                "username": "Ali Muhammed",
+                "url": "http://linkedin.com/in/ali-muhammed98"
+            }
+        ]
     },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "sentic90",
-        "url": "http://github.com/sentic90"
-      },
-      {
-        "network": "linkedin",
-        "username": "Ali Muhammed",
-        "url": "http://linkedin.com/in/ali-muhammed98"
-      }
-      
+    "interests": [
+        {
+            "name": "Programming",
+            "keywords": []
+        },
+        {
+            "name": "API-dev",
+            "keywords": []
+        },
+        {
+            "name": "FinTech",
+            "keywords": []
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "",
+            "keywords": [
+                "C",
+                "Python",
+                "Django",
+                "Djangorestframework",
+                "Javascript",
+                "MYSQL"
+            ]
+        },
+        {
+            "name": "Toolsets/OS",
+            "level": "",
+            "keywords": [
+                "Linux",
+                "Windows",
+                "Git/GitHub",
+                "Docker",
+                "Nginx",
+                "Apache"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Neelain,",
+            "area": "Petroleum Geology (expected Spring, 2022)",
+            "studyType": "B.S.",
+            "startDate": "2016-09-01",
+            "endDate": "Present",
+            "gpa": "",
+            "courses": []
+        }
+    ],
+    "work": [
+        {
+            "company": "Self-Employee",
+            "position": "Web Developer",
+            "website": "https://morsaal.com",
+            "startDate": "2020-10-04",
+            "endDate": "Present",
+            "summary": "Back-end developer for Morsaal app",
+            "highlights": [
+                "OTP verification service , QR-Pay service  ",
+                "Account management API, 3'rd party API integration"
+            ]
+        },
+        {
+            "company": "Inelegantsys Co.Ltd",
+            "position": "Help Desk Consultant",
+            "website": "http://www.hawaii.edu/its/",
+            "startDate": "2019-6-15",
+            "endDate": "Present",
+            "summary": "",
+            "highlights": [
+                "Troubleshoot software, CCTV integration API",
+                "Software solutions Router Config"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "United Nation",
+            "website": "http://manoa.hawaii.edu/reis",
+            "position": "Trainee as Junior Software Developer",
+            "startDate": "2018-05-01",
+            "endDate": "2018-11-01",
+            "summary": "Junior Python Developer",
+            "highlights": [
+                "Design firmware for distributed weather sensor network",
+                "Maintain custom data collection and storage infrastructure"
+            ]
+        }
+    ],
+    "awards & Certificates": [
+        {
+            "title": "Introduction to Git and GitHub",
+            "date": "2020-2020",
+            "awarder": "Google Co.ltd",
+            "summary": ""
+        },
+        {
+            "title": "Open Source Software Development Methods",
+            "date": "2015",
+            "awarder": "The Linux Foundation",
+            "summary": ""
+        },
+        {
+            "title": "Linux for Developers",
+            "date": "2015",
+            "awarder": "The Linux Foundation",
+            "summary": ""
+        },
+        {
+            "title": "Python Data Structures",
+            "date": "2015",
+            "awarder": "University of Michigan",
+            "summary": ""
+        },
+        {
+            "title": "Using Python to Access Web Data (REST & API )",
+            "date": "2015",
+            "awarder": "University of Michigan",
+            "summary": ""
+        },
+        {
+            "title": "Using Databases with Python ",
+            "date": "2020",
+            "awarder": "University of Michigan",
+            "summary": ""
+        },
+        {
+            "title": "Web Application Technologies and Django",
+            "date": "2020",
+            "awarder": "University of Michigan",
+            "summary": ""
+        }
+    ],
+    "references": [
+        {
+            "name": "Available upon request",
+            "reference": ""
+        }
     ]
-  },
-  "interests": [
-    {
-      "name": "Artificial Intelligence",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Machine Learning",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Programming",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "",
-      "keywords": [
-        "C",
-        "Python",
-        "Java",
-        "Javascript",
-        "MYSQL"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "Linux",
-        "Windows",
-        "Git/GitHub",
-        "Secutiry+",
-        "TI LaunchPad"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Neelain,",
-      "area": "Petroleum Geology (expected Spring, 2022)",
-      "studyType": "B.S.",
-      "startDate": "2016-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Self-Employee",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2019-04-04",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "Intelegetsys Co.Ltd",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2019-6-15",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues",
-        "Software solutions and Database desinging pattern"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "United Nation",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2018-05-01",
-      "endDate": "Present",
-      "summary": "Networks, python developer",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
 }
