@@ -1,12 +1,12 @@
 {
     "basics": {
         "name": "Ali Muhammed Elameen",
-        "label": "Python |Back-end Developer",
+        "label": "Software Engineer",
         "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQFk1Aj-Jo7SsQ/profile-displayphoto-shrink_200_200/0/1630690648811?e=1646265600&v=beta&t=h4GyRWNEZsQyNDcaMFoAEWZOMw7-Ooo6wVqQnq76jYE",
         "email": "ali5549@outook.com",
         "phone": "+249123836591",
         "website": "https://sentic90.github.io",
-        "summary": "  Software engineer , computer science and learnt computer programming with Python and Django",
+        "summary": "Software engineer, Self-taught programming & Web development, Project management certified",
         "location": {
             "address": "Khartoum, Sudan",
             "postalCode": "",
@@ -29,17 +29,30 @@
     },
     "interests": [
         {
-            "name": "Programming",
-            "keywords": []
+            "name": "Entrepreneurship",
+            "keywords": [
+                "Startups",
+                "Business",
+                "techs"
+            ]
         },
         {
-            "name": "API-dev",
-            "keywords": []
+            "name": "Programming",
+            "keywords": [
+                "C-Lang",
+                "Python",
+                "React"
+            ]
         },
         {
             "name": "FinTech",
-            "keywords": []
-        }
+            "keywords": [
+                "Payment-integrate",
+                "PayPal",
+                "Stripe",
+                "Payeer"
+            ]
+        },
     ],
     "skills": [
         {
@@ -49,9 +62,10 @@
                 "C",
                 "Python",
                 "Django",
-                "Djangorestframework",
                 "Javascript",
-                "MYSQL"
+                "Node-JS",
+                "HTML & CSS",
+                "React"
             ]
         },
         {
@@ -64,6 +78,14 @@
                 "Docker",
                 "Nginx",
                 "Apache"
+            ]
+        },
+        {
+            "name": "Databases",
+            "keywords": [
+                "MySql",
+                "Postgre",
+                "MangoDB"
             ]
         }
     ],
