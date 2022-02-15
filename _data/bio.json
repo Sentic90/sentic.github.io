@@ -1,193 +1,176 @@
 {
-    "basics": {
-        "name": "Ali Muhammed Elameen",
-        "label": "Software Engineer",
-        "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQFk1Aj-Jo7SsQ/profile-displayphoto-shrink_200_200/0/1630690648811?e=1646265600&v=beta&t=h4GyRWNEZsQyNDcaMFoAEWZOMw7-Ooo6wVqQnq76jYE",
-        "email": "ali5549@outook.com",
-        "phone": "+249123836591",
-        "website": "https://sentic90.github.io",
-        "summary": "Software engineer, Self-taught programming & Web development, Project management certified",
-        "location": {
-            "address": "Khartoum, Sudan",
-            "postalCode": "",
-            "city": "Azhari",
-            "countryCode": "SD",
-            "region": "Khartoum"
-        },
-        "profiles": [
-            {
-                "network": "github",
-                "username": "sentic90",
-                "url": "http://github.com/sentic90"
-            },
-            {
-                "network": "linkedin",
-                "username": "Ali Muhammed",
-                "url": "http://linkedin.com/in/ali-muhammed98"
-            }
-        ]
+  "basics": {
+    "name": "Ali Muhammed Elameen",
+    "label": "Software Engineer",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQFk1Aj-Jo7SsQ/profile-displayphoto-shrink_200_200/0/1630690648811?e=1646265600&v=beta&t=h4GyRWNEZsQyNDcaMFoAEWZOMw7-Ooo6wVqQnq76jYE",
+    "email": "ali5549@outook.com",
+    "phone": "+249123836591",
+    "website": "https://sentic90.github.io",
+    "summary": "Software engineer, Self-taught programming & Web development, Interested in financial technology and payment solution & integration.",
+    "location": {
+      "address": "Khartoum, Sudan",
+      "postalCode": "",
+      "city": "Azhari",
+      "countryCode": "SD",
+      "region": "Khartoum"
     },
-    "interests": [
-        {
-            "name": "Entrepreneurship",
-            "keywords": [
-                "Startups",
-                "Business",
-                "techs"
-            ]
-        },
-        {
-            "name": "Programming",
-            "keywords": [
-                "C-Lang",
-                "Python",
-                "React"
-            ]
-        },
-        {
-            "name": "FinTech",
-            "keywords": [
-                "Payment-integrate",
-                "PayPal",
-                "Stripe",
-                "Payeer"
-            ]
-        },
-    ],
-    "skills": [
-        {
-            "name": "Web Development",
-            "level": "Intermediate-Expert",
-            "keywords": [
-                "C",
-                "Python",
-                "Django",
-                "Javascript",
-                "Node-JS",
-                "HTML & CSS",
-                "React"
-            ]
-        },
-        {
-            "name": "Toolsets/OS",
-            "level": "Intermediate",
-            "keywords": [
-                "Linux",
-                "Windows",
-                "Git/GitHub",
-                "Docker",
-                "Nginx",
-                "Apache"
-            ]
-        },
-        {
-            "name": "Databases",
-            "keywords": [
-                "MySql",
-                "Postgre",
-                "MangoDB"
-            ]
-        }
-    ],
-    "education": [
-        {
-            "institution": "University of Neelain,",
-            "area": "Petroleum Geology (expected Spring, 2022)",
-            "studyType": "B.S.",
-            "startDate": "2016-09-01",
-            "endDate": "Present",
-            "gpa": "",
-            "courses": []
-        }
-    ],
-    "work": [
-        {
-            "company": "Self-Employee",
-            "position": "Web Developer",
-            "website": "https://morsaal.com",
-            "startDate": "2020-10-04",
-            "endDate": "Present",
-            "summary": "Back-end developer for Morsaal app",
-            "highlights": [
-                "OTP verification service , QR-Pay service  ",
-                "Account management API, 3'rd party API integration"
-            ]
-        },
-        {
-            "company": "Inelegantsys Co.Ltd",
-            "position": "Help Desk Consultant",
-            "website": "http://www.hawaii.edu/its/",
-            "startDate": "2019-6-15",
-            "endDate": "Present",
-            "summary": "",
-            "highlights": [
-                "Troubleshoot software, CCTV integration API",
-                "Software solutions Router Config"
-            ]
-        }
-    ],
-    "volunteer": [
-        {
-            "organization": "United Nation",
-            "website": "",
-            "position": "Trainee as Junior Software Developer",
-            "startDate": "2018-05-01",
-            "endDate": "2018-11-01",
-            "summary": "Junior Python Developer",
-            "highlights": [
-                "Design firmware for distributed weather sensor network",
-                "Maintain custom data collection and storage infrastructure"
-            ]
-        }
-    ],
-    "awards": [
-        {
-            "title": "Introduction to Git and GitHub",
-            "date": "2020-2020",
-            "awarder": "Google Co.ltd",
-            "summary": ""
-        },
-        {
-            "title": "Open Source Software Development Methods",
-            "date": "2015",
-            "awarder": "The Linux Foundation",
-            "summary": ""
-        },
-        {
-            "title": "Linux for Developers",
-            "date": "2015",
-            "awarder": "The Linux Foundation",
-            "summary": ""
-        },
-        {
-            "title": "Python Data Structures",
-            "date": "2015",
-            "awarder": "University of Michigan",
-            "summary": ""
-        },
-        {
-            "title": "Using Python to Access Web Data (REST & API )",
-            "date": "2015",
-            "awarder": "University of Michigan",
-            "summary": ""
-        },
-        {
-            "title": "Using Databases with Python ",
-            "date": "2020",
-            "awarder": "University of Michigan",
-            "summary": ""
-        },
-        {
-            "title": "Web Application Technologies and Django",
-            "date": "2020",
-            "awarder": "University of Michigan",
-            "summary": ""
-        }
-    ],
-    "references": [
-        {
-            "name": "Available upon request",
-            "reference": ""
-        }
+    "profiles": [
+      {
+        "network": "github",
+        "username": "sentic90",
+        "url": "http://github.com/sentic90"
+      },
+      {
+        "network": "linkedin",
+        "username": "Ali Muhammed",
+        "url": "http://linkedin.com/in/ali-muhammed98"
+      }
     ]
+  },
+  "interests": [
+    {
+      "name": "Entrepreneurship",
+      "keywords": ["Startups", "Business", "techs"]
+    },
+    {
+      "name": "Programming",
+      "keywords": ["C-Lang", "Python", "React"]
+    },
+    {
+      "name": "FinTech",
+      "keywords": ["Payment-integrate", "PayPal", "Stripe", "Payeer"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Intermediate-Expert",
+      "keywords": [
+        "C",
+        "Python",
+        "Django",
+        "Javascript",
+        "Node-JS",
+        "HTML & CSS",
+        "React"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "Intermediate",
+      "keywords": [
+        "Linux",
+        "Windows",
+        "Git/GitHub",
+        "Docker",
+        "Nginx",
+        "Apache"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": ["MySql", "Postgre", "MangoDB"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Neelain,",
+      "area": "Petroleum Geology (expected Spring, 2022)",
+      "studyType": "B.S.",
+      "startDate": "2016-09-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "company": "Self-Employee",
+      "position": "Web Developer",
+      "website": "https://morsaal.com",
+      "startDate": "2020-10-04",
+      "endDate": "Present",
+      "summary": "Back-end developer for Morsaal app",
+      "highlights": [
+        "OTP verification service , QR-Pay service  ",
+        "Account management API, 3'rd party API integration"
+      ]
+    },
+    {
+      "company": "Inelegantsys Co.Ltd",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2019-6-15",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, CCTV integration API",
+        "Software solutions Router Config"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "United Nation",
+      "website": "",
+      "position": "Trainee as Junior Software Developer",
+      "startDate": "2018-05-01",
+      "endDate": "2018-11-01",
+      "summary": "Junior Python Developer",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Introduction to Git and GitHub",
+      "date": "2020-2020",
+      "awarder": "Google Co.ltd",
+      "summary": ""
+    },
+    {
+      "title": "Open Source Software Development Methods",
+      "date": "2015",
+      "awarder": "The Linux Foundation",
+      "summary": ""
+    },
+    {
+      "title": "Linux for Developers",
+      "date": "2015",
+      "awarder": "The Linux Foundation",
+      "summary": ""
+    },
+    {
+      "title": "Python Data Structures",
+      "date": "2015",
+      "awarder": "University of Michigan",
+      "summary": ""
+    },
+    {
+      "title": "Using Python to Access Web Data (REST & API )",
+      "date": "2015",
+      "awarder": "University of Michigan",
+      "summary": ""
+    },
+    {
+      "title": "Using Databases with Python ",
+      "date": "2020",
+      "awarder": "University of Michigan",
+      "summary": ""
+    },
+    {
+      "title": "Web Application Technologies and Django",
+      "date": "2020",
+      "awarder": "University of Michigan",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
 }
